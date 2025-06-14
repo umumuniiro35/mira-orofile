@@ -213,7 +213,7 @@ h1 {
   left: 0;
 }
 
-/* ====== Social bar ====== */
+
 .social {
   margin-top: 20px;
   display: flex;
@@ -228,7 +228,6 @@ h1 {
   transform: scale(1.25) rotate(5deg);
 }
 
-/* Individual icon colors */
 .facebook {
   color: #1877f2;
 }
@@ -242,7 +241,7 @@ h1 {
   color: #d93025;
 }
 
-/* ====== Responsive tweaks ====== */
+
 @media (max-width: 500px) {
   .profile-card img {
     width: 112px;
